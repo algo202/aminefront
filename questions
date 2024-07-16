@@ -1,0 +1,22 @@
+<html>
+  <head>
+      <title>questions</title>
+  </head>
+  <body>
+        <div> 
+              <div>
+                    <h3>27-5</h3>  
+                    
+              </div>
+              <div>
+                      <input type="button" value="15">
+                      <input type="button" value="67">
+                      <input type="button" value="22">
+                      <input type="button" value="19">
+                      <input type="button" value="12">
+              </div>
+        </div>
+  </body>
+
+
+</html>
